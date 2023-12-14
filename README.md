@@ -1,4 +1,4 @@
-# AMONG FIGHTER - VENOX
+# AMONG FIGHTER
 
 ## Introduction
 
@@ -6,13 +6,11 @@ Welcome to "AMONG FIGHTER - VENOX," a 2D fighting game implemented in Java using
 
 ## How to Play
 
-1. **Splash Screen:**
-   - Upon launching the game, a splash screen will appear for 5 seconds.
-   - The splash screen is followed by the main game frame.
+![Splash Screen](screenshots/splash_screen.png)
+*Figure 1: Splash Screen*
 
-2. **Game Frame:**
-   - The game frame displays the red and blue players on a background.
-   - Use the keyboard keys to control the players.
+![Game Frame](screenshots/game.png)
+*Figure 2: Game Frame*
 
 3. **Controls:**
    - **Red Player:**
