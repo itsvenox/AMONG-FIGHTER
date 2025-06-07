@@ -6,7 +6,7 @@ Welcome to "AMONG FIGHTER - VENOX," a 2D fighting game implemented in Java using
 
 ## How to Play
 
-![Splash Screen](screenshots/splash_screen.png)
+![Logo](screenshots/logo.png)
 *Figure 1: Splash Screen*
 
 ![Game Frame](screenshots/game.png)
